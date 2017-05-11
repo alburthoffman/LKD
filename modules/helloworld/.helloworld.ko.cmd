@@ -1,0 +1,1 @@
+cmd_/home/wtang3/Repos/github.com/LKD/modules/helloworld/helloworld.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/wtang3/Repos/github.com/LKD/modules/helloworld/helloworld.ko /home/wtang3/Repos/github.com/LKD/modules/helloworld/helloworld.o /home/wtang3/Repos/github.com/LKD/modules/helloworld/helloworld.mod.o
